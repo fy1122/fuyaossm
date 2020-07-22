@@ -1,0 +1,8 @@
+cn\yao\controller\ProductController.class
+cn\yao\controller\LogAop.class
+cn\yao\controller\SecurityController.class
+cn\yao\controller\UserController.class
+cn\yao\controller\PermissionController.class
+cn\yao\controller\RoleController.class
+cn\yao\controller\OrdersController.class
+cn\yao\controller\SysLogController.class

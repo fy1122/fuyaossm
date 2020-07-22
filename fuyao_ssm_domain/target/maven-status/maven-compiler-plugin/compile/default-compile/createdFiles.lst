@@ -1,0 +1,8 @@
+cn\yao\domain\Role.class
+cn\yao\domain\Traveller.class
+cn\yao\domain\Permission.class
+cn\yao\domain\SysLog.class
+cn\yao\domain\Member.class
+cn\yao\domain\Product.class
+cn\yao\domain\UserInfo.class
+cn\yao\domain\Orders.class

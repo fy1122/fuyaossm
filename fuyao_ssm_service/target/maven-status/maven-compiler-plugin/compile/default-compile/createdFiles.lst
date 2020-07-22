@@ -1,0 +1,12 @@
+cn\yao\service\impl\ProductServiceImpl.class
+cn\yao\service\impl\OrdersServiceImpl.class
+cn\yao\service\impl\PermissionServiceImpl.class
+cn\yao\service\OrdersService.class
+cn\yao\service\LogAopService.class
+cn\yao\service\PermissionService.class
+cn\yao\service\ProductService.class
+cn\yao\service\impl\RoleServiceImpl.class
+cn\yao\service\UserService.class
+cn\yao\service\impl\UserServiceImpl.class
+cn\yao\service\RoleService.class
+cn\yao\service\impl\LogAopServiceImpl.class

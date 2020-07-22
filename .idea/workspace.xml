@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe9976c0-d49b-4034-bd2e-c97bb3f55e80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z8ugOAIUSZoWv3AZiK1EKJMxxP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/MyJavaproject/fuyao_ssm/fuyao_ssm_web/src/main/resources/applicationConfig.xml" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1575652377882" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\webapp" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\webapp\WEB-INF\pages" />
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\webapp" />
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\webapp\js" />
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\webapp\img" />
+      <recent name="D:\MyJavaproject\fuyao_ssm\fuyao_ssm_web\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.fuyao_ssm">
+    <configuration name="EncodesUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yao.utils.EncodesUtils" />
+      <module name="fuyao_ssm_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yao.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="fuyao_ssm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yao.service.impl.UserServiceImpl" />
+      <module name="fuyao_ssm_service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yao.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test.main" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fuyao_ssm" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="METHOD_NAME" value="main" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fuyao_ssm" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.EncodesUtils" />
+      <item itemvalue="Application.UserServiceImpl" />
+      <item itemvalue="JUnit.Test.main" />
+      <item itemvalue="Maven.fuyao_ssm" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserServiceImpl" />
+        <item itemvalue="Application.EncodesUtils" />
+        <item itemvalue="JUnit.Test.main" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe9976c0-d49b-4034-bd2e-c97bb3f55e80" name="Default Changelist" comment="" />
+      <created>1567662647771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567662647771</updated>
+      <workItem from="1567662652624" duration="5975000" />
+      <workItem from="1567668655952" duration="1777000" />
+      <workItem from="1567674422867" duration="4557000" />
+      <workItem from="1567730577868" duration="2979000" />
+      <workItem from="1567744524960" duration="8778000" />
+      <workItem from="1567902755802" duration="16795000" />
+      <workItem from="1568006246349" duration="5025000" />
+      <workItem from="1568079075750" duration="2017000" />
+      <workItem from="1568090909103" duration="8908000" />
+      <workItem from="1568168695314" duration="12926000" />
+      <workItem from="1568248796052" duration="597000" />
+      <workItem from="1568270920944" duration="3754000" />
+      <workItem from="1568281069824" duration="1057000" />
+      <workItem from="1568424343530" duration="13336000" />
+      <workItem from="1568533419045" duration="4927000" />
+      <workItem from="1568604848074" duration="10586000" />
+      <workItem from="1568687189084" duration="514000" />
+      <workItem from="1568688486665" duration="79000" />
+      <workItem from="1568690544284" duration="265000" />
+      <workItem from="1568690817851" duration="408000" />
+      <workItem from="1574824341058" duration="49000" />
+      <workItem from="1574825153836" duration="288000" />
+      <workItem from="1574841201149" duration="3827000" />
+      <workItem from="1575603489090" duration="1607000" />
+      <workItem from="1575617021468" duration="6417000" />
+      <workItem from="1575715376738" duration="4191000" />
+      <workItem from="1575970652435" duration="4465000" />
+      <workItem from="1576056066651" duration="2628000" />
+      <workItem from="1584233158106" duration="46000" />
+      <workItem from="1594778015612" duration="3130000" />
+      <workItem from="1594781519755" duration="31593000" />
+      <workItem from="1594827387250" duration="87000" />
+      <workItem from="1594877837538" duration="471000" />
+      <workItem from="1594891677830" duration="823000" />
+      <workItem from="1595041719622" duration="625000" />
+      <workItem from="1595213060558" duration="8000" />
+      <workItem from="1595379809677" duration="1483000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test_main - 2019.09.14 at 10h 03m 43s.xml">
+      <configuration name="Test.main" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594782358876">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594782358876" />
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1594818836711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1594818836711" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594878309655">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594878309655" />
+    <state width="1493" height="443" key="GridCell.Tab.0.bottom" timestamp="1595380796485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1595380796485" />
+    <state width="1493" height="443" key="GridCell.Tab.0.center" timestamp="1595380796484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1595380796484" />
+    <state width="1493" height="443" key="GridCell.Tab.0.left" timestamp="1595380796484">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1595380796484" />
+    <state width="1493" height="443" key="GridCell.Tab.0.right" timestamp="1595380796485">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="443" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1595380796485" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1594827219857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594827219857" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1594827219857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1594827219857" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1594827219857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1594827219857" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1594827219857">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1594827219857" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1595045278516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1595045278516" />
+    <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1594819716544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1594819716544" />
+    <state x="178" y="107" key="new project wizard" timestamp="1594781470115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594781470115" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1594798017010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594798017010" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fuyao_ssm_web/src/main/java/cn/yao/controller/ProductController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fuyao_ssm_service/src/main/java/cn/yao/service/impl/UserServiceImpl.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fuyao_ssm_web/src/main/java/cn/yao/controller/UserController.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fuyao_ssm_web/src/main/java/cn/yao/controller/UserController.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/fuyao_ssm_web/src/main/java/cn/yao/controller/RoleController.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="methodName.equals(&quot;addPermissionToRole&quot;)" language="JAVA" />
+          <url>file://$PROJECT_DIR$/fuyao_ssm_web/src/main/java/cn/yao/controller/LogAop.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>fuyao_ssm_web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fuyao_ssm_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: c3p0:c3p0:0.9.1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
